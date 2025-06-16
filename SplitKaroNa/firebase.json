@@ -1,0 +1,29 @@
+{
+    "flutter": {
+      "platforms": {
+        "android": {
+          "default": {
+            "projectId": "splitkarona",
+            "appId": "1:942358029028:android:30673c8a982559aa4e82f1",
+            "fileOutput": "android/app/google-services.json"
+          }
+        },
+        "dart": {
+          "lib/firebase_options.dart": {
+            "projectId": "splitkarona",
+            "configurations": {
+              "android": "1:942358029028:android:30673c8a982559aa4e82f1",
+              "ios": "1:942358029028:ios:d53ff45a902cba994e82f1",
+              "macos": "1:942358029028:ios:d53ff45a902cba994e82f1",
+              "web": "1:942358029028:web:644f0aee6a09deba4e82f1",
+              "windows": "1:942358029028:web:57f4511df34da3294e82f1"
+            }
+          }
+        }
+      }
+    },
+    "firestore": {
+      "rules": "firestore.rules",
+      "indexes": "firestore.indexes.json"
+    }
+  }

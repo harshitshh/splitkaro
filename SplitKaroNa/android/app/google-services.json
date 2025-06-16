@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942358029028",
+    "project_id": "splitkarona",
+    "storage_bucket": "splitkarona.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942358029028:android:30673c8a982559aa4e82f1",
+        "android_client_info": {
+          "package_name": "com.splitkarona.splitkaro_na"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1PGUvEikzoIAdmnlSpqklVdoxtiB175I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
