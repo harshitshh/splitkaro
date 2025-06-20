@@ -1,5 +1,5 @@
-📱 SplitKaroNa – Group Expense Splitter with UPI Integration
-SplitKaroNa is a mobile app built using Flutter that simplifies group expense tracking and settlements. Inspired by Splitwise — and born out of frustration when it went down — this app allows users to manage shared expenses and directly settle dues via UPI apps like GPay, PhonePe, and Paytm.
+📱 SplitSeva – Group Expense Splitter with UPI Integration
+SplitSeva is a mobile app built using Flutter that simplifies group expense tracking and settlements. Inspired by Splitwise — and born out of frustration when it went down — this app allows users to manage shared expenses and directly settle dues via UPI apps like GPay, PhonePe, and Paytm.
 
 🚀 Features
 🔄 Create and manage expense groups (e.g., trips, roommates, outings)
